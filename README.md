@@ -1,21 +1,14 @@
-# Medieval-Civs
-  #### This mod adds medieval civs into the game, focusing on the year 1444 onwards
+# The Reconquest
+  #### This mod adds civs and scenario from the Reconquista
 -----
 
 
-## Iberia
+## Playable Civs
 - Castile
 - Portugal
 - Aragon
-
-CS:
 - Granada
-- Navarre
-
-## Italia
-- Venice
-- Genoa
-- Papal States
+- Al-Andalus
 
 CS:
-- Naples
+- Navarre
